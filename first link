@@ -1,0 +1,24 @@
+1 <!DOCTYPE html> 
+2 <html lang="en"> 
+3 	<head> 
+4 		<title>500 Error</title> 
+5 		 
+6 		<link href="https://codeyourcloud.com/lib/Font/css/font-awesome.css" rel="stylesheet"> 
+7      
+8 		<link rel='stylesheet' type='text/css' href='https://codeyourcloud.com/error/standard.css'> 
+9 		<link rel='stylesheet' type='text/css' href='/lib/Font/css/font-awesome.min.css'> 
+10 		 
+11 		<link rel='stylesheet' type='text/css' href="../fonts/font.css"> 
+12 		 
+13 		<link rel="shortcut icon" type="image/png" href="https://codeyourcloud.com/favicon.png"/> 
+14 	</head> 
+15 	<body> 
+16 		<img src="https://codeyourcloud.com/error/error.png"> 
+17 		<h1>Error: 500</h1> 
+18 		<h3>This Page Has Been Removed</h3> 
+19 		<br/> 
+20 		<h2><a href="https://codeyourcloud.com/about" class="btn btn-danger">Go Back</a></h2> 
+21 		 
+22 		<footer>hostmaster@codeyourcloud.com</footer> 
+23 	</body> 
+24 </html> 
